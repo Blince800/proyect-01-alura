@@ -30,10 +30,10 @@ main{
 
 .containertext{
     position: absolute;
-    left: 60px; /*ok*/
+    left: 60px;
     top: 100px; 
     padding-left: 100px;
-    width: 1080px;
+    width: 800px;
     height: 600px;
 }
 
@@ -101,7 +101,7 @@ main{
     position: relative;
     width: 400px;
     height: 840px;
-    right: 200px;
+    right: 20px;
     padding-right: 20px;
     background-color: #ffffff;
     box-sizing: border-box;
